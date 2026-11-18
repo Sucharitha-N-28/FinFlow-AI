@@ -1,0 +1,68 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow example environment configuration
+!.env.example
+
+# Uploaded financial documents
+uploads/
+sample_documents/private/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+temp/
+tmp/
+*.log
+
+# Frontend dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Python test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python packaging
+*.egg-info/
+.eggs/
+
+# Original company-provided documents
+sample_documents/sample-docs/
+
+# Include synthetic sample documents
+!sample_documents/valid/
+!sample_documents/valid/**
+!sample_documents/test_cases/
+!sample_documents/test_cases/**
+
+# Local debugging and directory listing files
+tests/test_document1.py
+tests/test_document3.py
+tests/tests_structure.txt
+
+frontend/README.md
+frontend/src/assets/react.svg
+frontend/src/assets/vite.svg

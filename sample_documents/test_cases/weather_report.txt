@@ -1,0 +1,8 @@
+Weather Report
+
+Location: Bengaluru
+Temperature: 28 degrees Celsius
+Humidity: 65 percent
+Rainfall: 10 mm
+Weather Condition: Partly Cloudy
+Wind Speed: 12 km/h

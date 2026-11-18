@@ -1,0 +1,9 @@
+
+Company Name: ABC Technologies Pvt Ltd
+Financial Year: 2024-25
+
+Total Revenue: INR 500000
+Total Expenses: INR 350000
+Total Assets: INR 800000
+Total Liabilities: INR 300000
+Net Profit: INR 150000

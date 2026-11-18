@@ -1,0 +1,12 @@
+FinFlow AI - Financial Report
+
+Company: ABC Technologies
+
+Financial Year: 2025
+
+Total Revenue: 500000
+Total Expenses: 320000
+Net Profit: 180000
+
+Department: Finance
+Report Status: Completed
